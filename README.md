@@ -154,7 +154,7 @@ This server is hosted on the Amazon AWS Lightsail platform
 
   * Open a Git Bash terminal window  and access the server as grader
 
-    '''
+    ```
     λ ssh grader@52.70.251.54 -p 2200 -i ~/id_rsa
 Warning: Identity file C:\Users\sting/id_rsa not accessible: No such file or directory.
 Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-1021-aws x86_64)Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-1021-aws x86_64)
@@ -188,7 +188,7 @@ Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-1021-aws x86_64)Welcome to Ubunt
 *** System restart required ***
 Last login: Tue Dec  3 17:31:46 2019 from 65.74.233.212
 grader@ip-172-26-7-28:~$
-    '''
+    ```
 ## Prepare Sever for the Application
 
 - Set Time Zone to UTC
