@@ -156,38 +156,38 @@ This server is hosted on the Amazon AWS Lightsail platform
 
     ```
     λ ssh grader@52.70.251.54 -p 2200 -i ~/id_rsa
-Warning: Identity file C:\Users\sting/id_rsa not accessible: No such file or directory.
-Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-1021-aws x86_64)Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-1021-aws x86_64)
+    Warning: Identity file C:\Users\sting/id_rsa not accessible: No such file or directory.
+    Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-1021-aws x86_64)Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-1021-aws x86_64)
 
- * Documentation:  https://help.ubuntu.com
- * Management:     https://landscape.canonical.com
- * Support:        https://ubuntu.com/advantage
+     * Documentation:  https://help.ubuntu.com
+     * Management:     https://landscape.canonical.com
+     * Support:        https://ubuntu.com/advantage
 
-  System information as of Tue Dec  3 17:58:22 UTC 2019
+      System information as of Tue Dec  3 17:58:22 UTC 2019
 
-  System load:  0.0                Processes:           111
-  Usage of /:   12.4% of 19.32GB   Users logged in:     1
-  Memory usage: 58%                IP address for eth0: 172.26.7.28
-  Swap usage:   0%
+      System load:  0.0                Processes:           111
+      Usage of /:   12.4% of 19.32GB   Users logged in:     1
+      Memory usage: 58%                IP address for eth0: 172.26.7.28
+      Swap usage:   0%
 
- * Overheard at KubeCon: "microk8s.status just blew my mind".
+     * Overheard at KubeCon: "microk8s.status just blew my mind".
 
-     https://microk8s.io/docs/commands#microk8s.status
+         https://microk8s.io/docs/commands#microk8s.status
 
-  Get cloud support with Ubuntu Advantage Cloud Guest:
-    http://www.ubuntu.com/business/services/cloud
+      Get cloud support with Ubuntu Advantage Cloud Guest:
+        http://www.ubuntu.com/business/services/cloud
 
- * Canonical Livepatch is available for installation.
-   - Reduce system reboots and improve kernel security. Activate at:
-     https://ubuntu.com/livepatch
+     * Canonical Livepatch is available for installation.
+       - Reduce system reboots and improve kernel security. Activate at:
+         https://ubuntu.com/livepatch
 
-0 packages can be updated.
-0 updates are security updates.
+    0 packages can be updated.
+    0 updates are security updates.
 
 
-*** System restart required ***
-Last login: Tue Dec  3 17:31:46 2019 from 65.74.233.212
-grader@ip-172-26-7-28:~$
+    *** System restart required ***
+    Last login: Tue Dec  3 17:31:46 2019 from 65.74.233.212
+    grader@ip-172-26-7-28:~$
     ```
 ## Prepare Sever for the Application
 
