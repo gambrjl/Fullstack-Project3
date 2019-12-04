@@ -3,9 +3,9 @@ Udacity Full Stack
 
 ## Server Information
 This server is hosted on the Amazon AWS Lightsail platform
-* The ip address is 52.70.251.254 or 52.70.251.254:80
+* The ip address is 52.70.251.54 or 52.70.251.54:80
 * ssh port 2200
-* The url to access the catalog project web page is http://52.70.251.254/catalog/ or http://52.70.251.254:80/catalog/
+* The url to access the catalog project web page is http://52.70.251.54/catalog/ or http://52.70.251.54:80/catalog/
 
 ## Installed Packages
 **using $ sudo apt-get install <package name>**
